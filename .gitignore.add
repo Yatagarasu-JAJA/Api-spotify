@@ -1,0 +1,2 @@
+# Agregar estas líneas al .gitignore del proyecto (no subir las credenciales)
+lib/core/config/spotify_config.dart
